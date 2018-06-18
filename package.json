@@ -16,6 +16,6 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-server": "^0.2.0",
     "hexo-generator-searchdb" : "^1.0.0",
-	"hexo-generator-json-content" : "^0.0.0"
+	"hexo-generator-json-content" : "3.0.1"
   }
 }
