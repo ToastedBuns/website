@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: node:9.9.0
-    working_directory: ~/website/pkpersonal.co.uk
+    working_directory: ~/website
     steps:
       - checkout
       - run:
