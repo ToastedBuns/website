@@ -1,7 +1,12 @@
 ---
 title: 'Podcast #1'
 date: 2018-06-19 17:58:43
-tags: 'brexit', 'transgender', 'podcast'
+categories:
+- Podcast
+tags:
+- Brexit
+- Transgender
+- Podcast
 ---
 
 {% soundcloud 
