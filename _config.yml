@@ -22,7 +22,7 @@ permalink_defaults:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 0
+archive: 2
 category: 1
 tag: 1
 
