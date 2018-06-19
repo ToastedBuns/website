@@ -21,7 +21,7 @@ jobs:
             - node_modules
       - run:
           name: Generate static website
-          command: hexo generate
+          command: hexo clean && hexo generate
       - run:
           name: Install AWS CLI
           command: |
