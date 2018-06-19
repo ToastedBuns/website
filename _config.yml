@@ -2,6 +2,10 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+menu:
+  Whoami: /whoami
+  Github: https://github.com/G1edriusLt
+  Twitter: https://twitter.com/G1edriusLt
 # Site
 title: PKPersonal
 subtitle: Personal Website for PK
@@ -80,7 +84,7 @@ plugins:
   hexo-soundcloud
   
 ## Themes: https://hexo.io/themes/
-theme: tkl
+theme: diaspora
 
 search:
   path: search.json
