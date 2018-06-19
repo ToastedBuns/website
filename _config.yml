@@ -13,17 +13,22 @@ timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.pkpersonal.co.uk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+# Archives
+## 2: Enable pagination
+## 1: Disable pagination
+## 0: Fully Disable
+archive: 0
+category: 1
+tag: 1
+
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -73,9 +78,15 @@ pagination_dir: page
 # Extensions
 plugins:
   hexo-soundcloud
+  
 ## Themes: https://hexo.io/themes/
-theme: magnetic
+theme: tkl
 
+search:
+  path: search.json
+  zipPath: search.zip
+  versionPath: searchVersion.txt
+  field: post
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
