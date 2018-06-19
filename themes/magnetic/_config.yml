@@ -1,7 +1,9 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Archives:
+  Tags : tags
+  Categories : categories
 
 # Default post title
 default_post_title: Untitled
@@ -13,7 +15,7 @@ default_cover_index: "https://www.intellectualtakeout.org/sites/ito/files/trump_
 default_cover_detail: "https://www.intellectualtakeout.org/sites/ito/files/trump_as_aristotle.png"
 
 # Favicon
-favicon: ""
+favicon: "/img/favicon-32x32.ico"
 
 # Comments. Choose one by filling up the information
 comments:
