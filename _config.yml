@@ -12,6 +12,10 @@ author: Peter K
 language: en
 timezone: Europe/London
 
+search:
+  path: search.json
+  field: post
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.pkpersonal.co.uk

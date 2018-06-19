@@ -15,12 +15,10 @@ menu:
 
 # display widgets
 widgets:
-#- search
+- search
 - recent_posts
 - archives
 - social_links
-
-
 
 # widget behavior
 archive_type: 'monthly'
