@@ -18,7 +18,7 @@ favicon: ""
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: pkpersonal.disqus.com
+  disqus_shortname: pkpersonal
   # Facebook comments
   facebook:
     appid:
