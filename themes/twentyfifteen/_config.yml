@@ -2,10 +2,10 @@
 # Site Settings
 # ===========================================
 # Header
-site_title: Peter's Website
-site_description: Site's Description
+site_title: Personal blog
+site_description: Personal blog to collect my thoughts and share my podcast
 # ---Optional ---
-site_avatar: /images/avatar-small.png
+site_avatar: /images/thales.png
 artical_license_statement:
 # ---End Optional ---
 menu:
@@ -15,7 +15,7 @@ menu:
 
 # display widgets
 widgets:
-- search
+#- search
 - recent_posts
 - archives
 - social_links
