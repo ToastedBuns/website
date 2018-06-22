@@ -83,6 +83,7 @@ pagination_dir: page
 # Extensions
 plugins:
   hexo-soundcloud
+  hexo-tag-video 
   
 ## Themes: https://hexo.io/themes/
 theme: twentyfifteen
