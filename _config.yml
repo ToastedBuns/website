@@ -4,7 +4,7 @@
 
 
 # Site
-title: PKPersonal
+title: Toasted Bunes
 subtitle: Personal Website for PK
 description: Blog and Podcast
 keywords: blog,podcast
@@ -18,7 +18,7 @@ search:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.pkpersonal.co.uk
+url: https://www.toastedbuns.co.uk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

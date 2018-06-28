@@ -2,10 +2,10 @@
 # Site Settings
 # ===========================================
 # Header
-site_title: Personal blog
-site_description: Personal blog to collect my thoughts and share my podcast
+site_title: Toasted Buns
+site_description: One toasted bun at a time
 # ---Optional ---
-site_avatar: /images/thales.png
+site_avatar: /images/avatar.jpeg
 artical_license_statement:
 # ---End Optional ---
 menu:
