@@ -13,9 +13,10 @@ Talking about Transgender movement and it's implications for our society. Mass i
 Lastly, we discussed Brexit. The reasons behind it, will it actually happen and how the world will be affected by it.
 It is our first Podcast, therefore, we are still polishing it up.
 Your feedback is greatly appreciated!
+I love you all and you are the best!
+
 Thank you for listening!
 
-Papa Bless!
 
-{% soundcloud 
-https://soundcloud.com/user-672925144/gp-podcast-with-ahmed-1 default %}
+{% aplayer "Podcast #1 - LGBQT+, Mass Immigration and Brexit" "Toasted Buns" "/podcasts/Episode1.mp3" "https://s3-eu-west-1.amazonaws.com/toastedbuns.co.uk/images/avatar.jpeg" %}
+

@@ -26,11 +26,6 @@
 				<%= theme.artical_license_statement %>
 			</div>
 		<% } %>
-		<% if (!index && post.comments){ %>
-			<div class="entry-comments">
-				<%- partial('article-comments', {post: post}) %>
-			</div>
-		<% } %>
 		<footer class="entry-footer">
 			<%- partial('article-footer', {post: post}) %>
 		</footer><!-- .entry-footer -->

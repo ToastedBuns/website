@@ -11,7 +11,7 @@ artical_license_statement:
 menu:
   Home: /
   Archives: /archives
-  About Me: /about
+  About: /about
 
 # display widgets
 widgets:
@@ -34,10 +34,19 @@ favicon: images/favicon.ico
 # Baidu Analytics
 baidu_analytics: 
 # Google Analytics
-google_analytics: UA-121084299-1
+google_analytics: UA-121640466-1
+comment: true
+comments:
+  # Disqus comments
+  disqus_shortname: 
+  # Facebook comments
+  facebook:
+    appid: 2127422100867738
+    comment_count: 5
+    comment_colorscheme: light
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: pkpersonal
   count: true
 # changyan

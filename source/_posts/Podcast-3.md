@@ -12,8 +12,8 @@ This time we are talking about Donald Trump and the US/Mexico border hysteria wh
 But is Donald Trump really the one to blame here? Tune in to find out!
 It is our third Podcast, therefore, we are still polishing it up.
 Your feedback is greatly appreciated!
+I love you all and you are the best!
+
 Thank you for listening!
 
-Papa Bless!
-{% soundcloud 
-https://soundcloud.com/user-672925144/podcast-3-trump-and-mexico-border-hysteria default %}
+{% aplayer "Podcast #3 - Trump and Mexican Border Hysteria" "Toasted Buns" "/podcasts/Episode3.mp3" "https://s3-eu-west-1.amazonaws.com/toastedbuns.co.uk/images/avatar.jpeg" %}
