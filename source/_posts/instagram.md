@@ -7,10 +7,10 @@ tags:
 - Social Media
 ---
 ![Instagram is the worst](/images/instagram.jpg)
-Ah, Instagram! I know I have a problem with Instagram. It’s toxic and 
-ingenuine and it ruins my attention span. But it’s my guilty pleasure. I 
-just like to watch stories posted by my friends and some influencers I 
-don’t even like, then scroll through the feed until reality hits and I’d 
+Ah, Instagram! I know I have a problem with Instagram. It’s toxic and
+ingenuine and it ruins my attention span. But it’s my guilty pleasure. I
+just like to watch stories posted by my friends and some influencers I
+don’t even like, then scroll through the feed until reality hits and I’d
 realized 3 hours is gone.
 <!--more-->
 But there is one thing that absolutely annoys me up to the roof - #tbt, 
