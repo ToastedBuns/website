@@ -18,6 +18,7 @@ We are still trying out new things and new formats, therefore your
 feedback is greatly appreciated!
 I love you all and you are the best!
 
+Checkout Ahmed @ http://ahmedhadjou.com/
 
 {% aplayer "Podcast #6 - Favourite Movies" "Toasted Buns" 
 "/podcasts/Episode6.mp3" 
