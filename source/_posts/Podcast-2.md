@@ -26,6 +26,7 @@ Your feedback is greatly appreciated!
 I love you all and you are the best!
 
 Thank you for listening!
+Checkout Ahmed @ http://ahmedhadjou.com/
 
 {% aplayer "Podcast #2 - Artificial Intelligence" "Toasted Buns" "/podcasts/Episode2.mp3" "https://s3-eu-west-1.amazonaws.com/toastedbuns.co.uk/avatar/avatar.jpeg" %}
 
