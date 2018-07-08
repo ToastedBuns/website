@@ -5,6 +5,12 @@ tags:
 - Podcast
 - Movies
 - Chill
+category: podcast # must be exactly `podcast`
+media: /podcasts/episode6.mp3
+image: /images/avatar.jpeg
+length: 48761543
+type: audio/mpeg
+duration: 01:10:36
 ---
 ![Favourite movies!](/images/movies.jpg)
 This time we are talking about our favourite movies. Going through our 
@@ -19,7 +25,7 @@ feedback is greatly appreciated!
 I love you all and you are the best!
 
 Checkout Ahmed @ http://ahmedhadjou.com/
-
+Also available on Youtube @ https://www.youtube.com/watch?v=qJiOLe1cjUU
 {% aplayer "Podcast #6 - Favourite Movies" "Toasted Buns" 
 "/podcasts/Episode6.mp3" 
 "https://s3-eu-west-1.amazonaws.com/toastedbuns.co.uk/avatar/avatar.jpeg" 

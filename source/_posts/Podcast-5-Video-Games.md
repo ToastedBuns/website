@@ -4,6 +4,12 @@ date: 2018-07-02 18:02:52
 tags:
 - Podcast
 - Video Games
+category: podcast # must be exactly `podcast`
+media: /podcasts/episode5.mp3
+image: /images/avatar.jpeg
+length: 55382231
+type: audio/mpeg
+duration: 01:15:38
 ---
 ![Love/Hate relationship with Video Games?](/images/games.jpg)
 This time we are talking about Video games. Both of us have been fans of video games since childhood and we actually met at university during Video Games Technologies Bachelor course.

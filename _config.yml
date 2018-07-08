@@ -5,12 +5,13 @@
 
 # Site
 title: Toasted Buns
-subtitle: Personal Website for PK
+subtitle: One toasted bun at a time
 description: Blog and Podcast
 keywords: blog,podcast
-author: Peter K
+author: Toasted Buns
 language: en
 timezone: Europe/London
+default_thumb: "/images/avatar.jpeg"
 
 search:
   path: search.json
@@ -92,6 +93,20 @@ theme: twentyfifteen
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#Podcast
+podcast:
+    type: rss2
+    path: podcast.xml
+    limit: 20
+    hub:
+    url: https://toastedbuns.co.uk
+    description: Podcast about Social issues
+    language: eng-en
+    copyright: "COPYRIGHT Toasted Buns"
+    owner: ToastedBuns
+    email: contact@toastedbuns.co.uk
+    category: Society & Culture
 
 feed:
   type: rss2

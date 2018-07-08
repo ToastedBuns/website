@@ -4,6 +4,12 @@ date: 2018-06-28 21:13:46
 tags:
 - Feminism
 - LGBTQ+
+category: podcast # must be exactly `podcast`
+media: /podcasts/episode4.mp3
+image: /images/avatar.jpeg
+length: 32652231
+type: audio/mpeg
+duration: 01:11:12
 ---
 ![What is the point of this?](/images/feminism2.jpg)
 Fourth episode of our podcast! This time with a guest Jamie!

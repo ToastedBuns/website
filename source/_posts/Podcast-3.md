@@ -1,10 +1,15 @@
 ---
-title: Podcast 3 - Trump and Mexico border hysteria
+title: Podcast #3 - Trump and Mexico border hysteria
 date: 2018-06-24 15:56:40
 tags:
 - Trump
 - Immigration
-
+category: podcast # must be exactly `podcast`
+media: /podcasts/episode3.mp3
+image: /images/avatar.jpeg
+length: 32474279
+type: audio/mpeg
+duration: 01:04:38
 ---
 ![Time to build a wall?](/images/trump-wall.jpg)
 Third episode of our podcast.

@@ -1,11 +1,17 @@
 ---
-title: Podcast 1
+title: Podcast #1 - Brexit, Transgender and Mass Immigration
 date: 2018-06-19 20:50:50
 tags:
 - Brexit
 - Transgender
 - EU
 - Podcast
+category: podcast # must be exactly `podcast`
+media: /podcasts/episode1.mp3
+image: /images/avatar.jpeg
+length: 35358249
+type: audio/mpeg
+duration: 01:13:39
 ---
 ![Transgender, what is it?](/images/transgender.png)
 My first podcast recorded with Ahmed.
