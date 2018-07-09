@@ -1,5 +1,5 @@
 ---
-title: Podcast #2 - Artificial Intelligence
+title: 'Podcast #2 - Artificial Intelligence'
 date: 2018-06-20 20:50:50
 tags:
 - Podcast

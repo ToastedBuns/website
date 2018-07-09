@@ -1,5 +1,5 @@
 ---
-title: Podcast #3 - Trump and Mexico border hysteria
+title: 'Podcast #3 - Trump and Mexico border hysteria'
 date: 2018-06-24 15:56:40
 tags:
 - Trump
