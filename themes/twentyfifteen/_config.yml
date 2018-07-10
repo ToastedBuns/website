@@ -19,7 +19,6 @@ widgets:
 - recent_posts
 - archives
 - social_links
-
 # widget behavior
 archive_type: 'monthly'
 show_count: true
