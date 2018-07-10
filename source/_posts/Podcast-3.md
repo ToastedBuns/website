@@ -5,7 +5,7 @@ tags:
 - Trump
 - Immigration
 category: podcast # must be exactly `podcast`
-media: /podcasts/episode3.mp3
+media: /podcasts/Episode3.mp3
 image: /avatar/itunesavatar.png
 length: 32474279
 type: audio/mpeg

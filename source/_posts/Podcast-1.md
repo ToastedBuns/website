@@ -7,7 +7,7 @@ tags:
 - EU
 - Podcast
 category: podcast # must be exactly `podcast`
-media: /podcasts/episode1.mp3
+media: /podcasts/Episode1.mp3
 image: /avatar/itunesavatar.png
 length: 35358249
 type: audio/mpeg

@@ -5,7 +5,7 @@ tags:
 - Podcast
 - Video Games
 category: podcast # must be exactly `podcast`
-media: /podcasts/episode5.mp3
+media: /podcasts/Episode5.mp3
 image: /avatar/itunesavatar.png
 length: 55382231
 type: audio/mpeg

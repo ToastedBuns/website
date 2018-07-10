@@ -6,7 +6,7 @@ tags:
 - Movies
 - Chill
 category: podcast # must be exactly `podcast`
-media: /podcasts/episode6.mp3
+media: /podcasts/Episode6.mp3
 image: /avatar/itunesavatar.png
 length: 48761543
 type: audio/mpeg
