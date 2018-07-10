@@ -8,7 +8,7 @@ tags:
 - Podcast
 category: podcast # must be exactly `podcast`
 media: /podcasts/episode1.mp3
-image: /images/avatar.jpeg
+image: /avatar/itunesavatar.png
 length: 35358249
 type: audio/mpeg
 duration: 01:13:39

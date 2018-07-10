@@ -6,7 +6,7 @@ tags:
 - Immigration
 category: podcast # must be exactly `podcast`
 media: /podcasts/episode3.mp3
-image: /images/avatar.jpeg
+image: /avatar/itunesavatar.png
 length: 32474279
 type: audio/mpeg
 duration: 01:04:38

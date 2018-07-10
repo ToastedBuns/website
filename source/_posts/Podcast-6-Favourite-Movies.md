@@ -7,7 +7,7 @@ tags:
 - Chill
 category: podcast # must be exactly `podcast`
 media: /podcasts/episode6.mp3
-image: /images/avatar.jpeg
+image: /avatar/itunesavatar.png
 length: 48761543
 type: audio/mpeg
 duration: 01:10:36

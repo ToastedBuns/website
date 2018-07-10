@@ -6,7 +6,7 @@ tags:
 - LGBTQ+
 category: podcast # must be exactly `podcast`
 media: /podcasts/episode4.mp3
-image: /images/avatar.jpeg
+image: /avatar/itunesavatar.png
 length: 32652231
 type: audio/mpeg
 duration: 01:11:12

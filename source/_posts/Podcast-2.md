@@ -10,7 +10,7 @@ tags:
 - The Matrix
 category: podcast # must be exactly `podcast`
 media: /podcasts/episode5.mp3
-image: /images/avatar.jpeg
+image: /avatar/itunesavatar.png
 length: 39361932
 type: audio/mpeg
 duration: 01:22:16
