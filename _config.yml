@@ -85,14 +85,16 @@ pagination_dir: page
 plugins:
   hexo-soundcloud
   hexo-tag-video 
-  
+  hexo-deployer-s3-cloudfront  
 ## Themes: https://hexo.io/themes/
 theme: twentyfifteen
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: s3-cloudfront
+  bucket: toastedbuns.co.uk
+  cf_distribution: E1TX5SA54U3YXX
 
 #Podcast
 podcast:
@@ -117,3 +119,13 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
 
+all_minifier: true
+image_minifier:
+  enable: false
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+  silent: false
+  

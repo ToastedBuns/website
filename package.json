@@ -7,6 +7,8 @@
   },
   "dependencies": {
     "hexo": "^3.2.0",
+    "hexo-all-minifier": "^0.5.2",
+    "hexo-deployer-s3-cloudfront": "^0.1.4",
     "hexo-fbcomments": "git+https://github.com/lsmoura/hexo-fbcomments.git",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
