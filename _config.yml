@@ -95,6 +95,9 @@ deploy:
   type: s3-cloudfront
   bucket: toastedbuns.co.uk
   cf_distribution: E1TX5SA54U3YXX
+  headers: {CacheControl: 'max-age=604800, public'}
+  force_overwrite: true
+  region: eu-west-1
 
 #Podcast
 podcast:
@@ -120,12 +123,3 @@ feed:
   content_limit_delim: ' '
 
 all_minifier: true
-image_minifier:
-  enable: false
-  interlaced: false
-  multipass: false
-  optimizationLevel: 2
-  pngquant: false
-  progressive: false
-  silent: false
-  
