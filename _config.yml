@@ -123,3 +123,5 @@ feed:
   content_limit_delim: ' '
 
 all_minifier: true
+image_minifier:
+  enable: false
