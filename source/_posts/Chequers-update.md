@@ -1,5 +1,5 @@
 ---
-title: Chequers-update
+title: 'Theresa May doubles down on the Chequers Brexit Plan'
 date: 2018-07-15 09:10:52
 tags:
 - Britain
