@@ -21,7 +21,16 @@ playing in an inflatable pool in the backyard because those are cute and
 from a vacation you took 3 years ago with friends you haven’t even seen 
 since that trip. Or photos from a work experience that happened 2 years 
 ago that you didn’t even enjoy or engage that much. 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2164900147810573"
+     data-ad-slot="8817307412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 And people usually get defensive about their decisions of doing such 
 moronic thing:
 “Everyone does that.”

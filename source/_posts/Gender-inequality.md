@@ -38,6 +38,16 @@ might be different in other countries, but I would assume the majority
 is still women). Where is the outrage of the Twitter mob about this 
 issue? Oh, the inequality only matters when women are the minority. I 
 suppose the oppressor cannot be the oppressed one. How convenient!
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2164900147810573"
+     data-ad-slot="8817307412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 In addition to being a minority in some industries, men are faced with a 
 higher risk of dying at work. In 2017/18 96% (!!) of all fatal injuries 
 at work were to male workers. I am not advocating for any injuries at 
