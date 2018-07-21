@@ -34,18 +34,9 @@ favicon: images/favicon.ico
 baidu_analytics: 
 # Google Analytics
 google_analytics: UA-121640466-1
-comment: true
-comments:
-  # Disqus comments
-  disqus_shortname: 
-  # Facebook comments
-  facebook:
-    appid: 2127422100867738
-    comment_count: 5
-    comment_colorscheme: light
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname: pkpersonal
   count: true
 # changyan
