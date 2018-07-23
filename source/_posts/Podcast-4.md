@@ -19,17 +19,7 @@ Feminism and LGBTQ+ community!
 Really enjoyd this episode, because it was very light-hearted for the most part and really funny!
 It is our fourth Podcast, therefore, we are still polishing it up.
 Your feedback is greatly appreciated!
-I love you all and you are the best!
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2164900147810573"
-     data-ad-slot="8817307412"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+I love you all and you are the best!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Thank you for listening!
 Checkout Ahmed @ http://ahmedhadjou.com/
 

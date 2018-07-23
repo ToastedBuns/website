@@ -20,17 +20,7 @@ Europe. Of course, super diverse mean that white local residents are the
 minority now. Even United States of America are projected to face the 
 same outcome. White Americans to become minority by 2044 thanks to 
 ageing population while Hispanics will make up a quarter of U.S. 
-citizens.
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2164900147810573"
-     data-ad-slot="8817307412"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+citizens.<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 However, I will focus on Birmingham City in this blog. The mainstream 
 media has been talking about minorities being the victims in the UK for 
 years. However, even though White British people are not the majority 

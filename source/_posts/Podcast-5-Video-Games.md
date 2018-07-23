@@ -18,17 +18,7 @@ In this episode we discuss our favourite games, the current state of the industr
 Talking about Splinter Cell, Need for Speed, Hitman series and many more! In addition to talking about our favourite video games we also discuss Political Correctness slowly creeping into video games. Especially after the announcement of Battlefield V and the backlash it received from the gamers.
 
 Your feedback is greatly appreciated!
-I love you all and you are the best!
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2164900147810573"
-     data-ad-slot="8817307412"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+I love you all and you are the best!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Thank you for listening!
 Checkout Ahmed @ http://ahmedhadjou.com/
 
