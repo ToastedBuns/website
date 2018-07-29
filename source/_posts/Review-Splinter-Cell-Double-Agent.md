@@ -28,17 +28,7 @@ to sneak around and collect more information about the terrorist and
 complete specific tasks from NSA. The catch here is that you are not 
 allowed to attack anyone and you do not have any of your gadgets. The 
 only thing you have is your skills. It’s a good change of gameplay 
-between levels and really is a lot of fun!
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2164900147810573"
-     data-ad-slot="8817307412"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+between levels and really is a lot of fun!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 The graphics of the game was amazing for me when it came out. Sam looks 
 better than ever, his model is very detailed and all the other main 
 characters look distinct and realistic even today. However, there are 
