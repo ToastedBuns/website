@@ -9,6 +9,7 @@ tags:
 ![What is the point of this?](/images/bbcthumbnail.png)
 BBC continues it's left wing propaganda with it's latest video about gender stereotypes.
 This is my first Youtube video, therefore your feedback is greatly appreciated!
+<!--more-->
 If you enjoyed it, give it a like and subscribe for more!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Let me know how you feel about this video in the comments below!
 Thanks for watching!
