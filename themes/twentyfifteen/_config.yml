@@ -12,7 +12,7 @@ menu:
   Home: /
   Archives: /archives
   About: /about
-
+  Donate: /donate
 # display widgets
 widgets:
 #- search
