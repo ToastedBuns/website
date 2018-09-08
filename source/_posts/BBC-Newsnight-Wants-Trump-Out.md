@@ -2,6 +2,8 @@
 title: BBC Newsnight Wants Trump Out
 date: 2018-08-12 14:46:29
 tags:
+- Youtube
+- BBC
 ---
 ![What is the point of this?](/images/bbcnewsnight.png)
 CNN and other American Main Stream news channels been talking about Trump's impeachment for almost two years now.
