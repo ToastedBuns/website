@@ -12,7 +12,8 @@ This is my second Youtube video, therefore your feedback is greatly appreciated!
 If you enjoyed it, give it a like and subscribe for more!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Let me know how you feel about this video in the comments below!
 Thanks for watching!
-{% video <iframe width="560" height="315" src="https://www.youtube.com/embed/TFaC16ClxFk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFaC16ClxFk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!--more-->
 Sources:
 https://www.breitbart.com/london/2018/07/11/migrants-threaten-kill-rescue-crew/

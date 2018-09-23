@@ -11,7 +11,8 @@ Well, BBC Newsnight wanted to get a piece of that pie too!
 If you enjoyed it, give it a like and subscribe for more!<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;"  data-ad-layout="in-article"  data-ad-format="fluid"  data-ad-client="ca-pub-2164900147810573"  data-ad-slot="8817307412"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Let me know how you feel about this video in the comments below!
 Thanks for watching!
-{% video <iframe width="560" height="315" src="https://www.youtube.com/embed/6EQMBhln45E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EQMBhln45E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!--more-->
 Sources:
 https://www.washingtontimes.com/news/2018/mar/6/trump-coverage-still-90-negative-says-new-study/
