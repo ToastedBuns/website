@@ -5,7 +5,7 @@ tags:
 category: podcast # must be exactly `podcast`
 media: /podcasts/Episode12.mp3
 image: /avatar/itunesavatar.png
-length: 128190548
+length: 97434096
 type: audio/mpeg
 duration: 01:02:41
 ---
