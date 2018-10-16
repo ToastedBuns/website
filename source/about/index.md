@@ -16,7 +16,7 @@ I love you all and you are the best!
 
 You can follow me on these platforms:
 Gab.ai: https://gab.ai/ToastedBuns
-Twitter: https://twitter.com/G1edriusLt
+Twitter: https://twitter.com/TheToastedBuns
 BitChute: https://www.bitchute.com/channel/90eC49MA1qLC/
 Minds.com: https://www.minds.com/ToastedBuns
 Youtube @ https://www.youtube.com/channel/UCGcwJNqGKsT4fhHhk2pxIiQ
